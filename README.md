@@ -16,7 +16,7 @@ Aplicación de prueba de conocimientos, desarrollada en la versión 8 de lavael 
 -> npm run build
 
 - **[Ejecutar las migraciones y los seeders**
--> php artisan migrate::db seed
+-> php artisan migrate --seed
 
 
 
